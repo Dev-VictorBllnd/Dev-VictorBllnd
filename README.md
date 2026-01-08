@@ -94,3 +94,6 @@ Sou apaixonado por tecnologia e aprendizado contínuo, sempre buscando evoluir m
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-VictorBllnd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </div>
+
+### 📂 Projetos em Destaque
+- [📚 Sistema de Gestão de Biblioteca](link-do-seu-repositorio-aqui): Sistema Desktop em Python com interface moderna (ttkbootstrap) e banco de dados SQL.
