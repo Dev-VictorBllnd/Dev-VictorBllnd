@@ -96,4 +96,4 @@ Sou apaixonado por tecnologia e aprendizado contínuo, sempre buscando evoluir m
 </div>
 
 ### 📂 Projetos em Destaque
-- [📚 Sistema de Gestão de Biblioteca](link-do-seu-repositorio-aqui): Sistema Desktop em Python com interface moderna (ttkbootstrap) e banco de dados SQL.
+- [📚 Sistema de Gestão de Biblioteca](https://github.com/Dev-VictorBllnd/Biblioteca_SA): Sistema Desktop em Python com interface moderna (ttkbootstrap) e banco de dados SQL.
