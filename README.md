@@ -82,9 +82,6 @@ Sou apaixonado por tecnologia e aprendizado contínuo, sempre buscando evoluir m
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-VictorBllnd&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📂 Projetos em Destaque
 - [📚 Sistema de Gestão de Biblioteca](https://github.com/Dev-VictorBllnd/Biblioteca_SA): Sistema Desktop em Python com interface moderna (ttkbootstrap) e banco de dados SQL.
